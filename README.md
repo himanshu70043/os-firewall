@@ -5,3 +5,5 @@ connection error for those urls.
 
 You will get the option to add the new url to be blocked, to show the list of the urls you have blocked and 
 to delete the particular url from being blocked from your browser.
+
+Thank you.
